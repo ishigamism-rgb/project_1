@@ -1,0 +1,5 @@
+{
+  "name": "コード実行",
+  "description": "GeminiにサンドボックスでPythonコードを実行させる",
+  "requestFramePermissions": []
+}
